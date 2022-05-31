@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/apache-log4j-extras-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="lib/cmulex.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/create-lab-commons-audio.jar"/>
+	<classpathentry kind="lib" path="lib/create-lab-commons-collections.jar"/>
+	<classpathentry kind="lib" path="lib/create-lab-commons-device.jar"/>
+	<classpathentry kind="lib" path="lib/create-lab-commons-serial.jar"/>
+	<classpathentry kind="lib" path="lib/create-lab-commons-speech.jar"/>
+	<classpathentry kind="lib" path="lib/create-lab-commons-user-interface.jar"/>
+	<classpathentry kind="lib" path="lib/create-lab-commons-util.jar"/>
+	<classpathentry kind="lib" path="lib/create-lab-commons-xml.jar"/>
+	<classpathentry kind="lib" path="lib/en_us.jar"/>
+	<classpathentry kind="lib" path="lib/freetts.jar"/>
+	<classpathentry kind="lib" path="lib/hid4java.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-nop-1.7.7.jar"/>
+	<classpathentry kind="lib" path="lib/swing-layout-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/terk-core.jar"/>
+	<classpathentry kind="lib" path="lib/terk-services.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
